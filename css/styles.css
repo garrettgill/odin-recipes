@@ -13,3 +13,9 @@
 .steps {
     color: blue;
 }  
+
+.steps.contents {
+    font-weight: 800;
+    align-items: center;
+    color: rgb(63, 241, 241);
+}
